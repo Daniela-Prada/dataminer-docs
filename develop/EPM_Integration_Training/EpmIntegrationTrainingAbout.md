@@ -48,7 +48,9 @@ The EPM Integration Training package installs the following components:
 - Visio drawings:
 
   - Skyline EPM Integration Training.vsdx
-
+> [!NOTE]
+> Both Front-end and Back-end elements utilize the 'Skyline EPM Integration Training Manager' connector. The ‘Manager type’ parameter on the Configuration page can be adjusted to designate an element as either Front-end or Back-end.
+> 
 ## Table structure
 
 The front-end element has minimal information in its local tables. It retrieves all the DMS information via view tables.
